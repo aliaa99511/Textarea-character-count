@@ -1,0 +1,23 @@
+
+body{
+    background-color: #eee!important;
+}
+
+.container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.form-control {
+    width: 70%!important;
+}
+#para {
+    border: 2px solid gray;
+    padding: 8px;
+    font-size: 22px;
+    width: 89px;
+    text-align: center;
+    font-weight: 600;
+    margin-left: 688px;
+    margin-top: 7px;
+    height: 52px;
+}
